@@ -18,3 +18,22 @@ let dados = [
       tags: "ginástica ginastica ouro"
   }
 ];
+
+{
+    titulo: "Neymar Jr.",
+    descricao: "Neymar Jr. é um dos jogadores de futebol mais famosos do mundo, conhecido por seus dribles habilidosos e gols espetaculares. Atuando pelo Brasil e pelo Paris Saint-Germain, ele encanta fãs por onde passa.",
+    link: "https://pt.wikipedia.org/wiki/Neymar",
+    tags: "futebol neymar psg brasil" 
+  },
+  {
+    titulo: "Gabriel Medina",
+    descricao: "Gabriel Medina é um dos maiores nomes do surf mundial, tricampeão mundial e conhecido por seu estilo arrojado e radical. Sua paixão pelo esporte o levou a quebrar barreiras e inspirar uma nova geração de surfistas.",
+    link: "https://pt.wikipedia.org/wiki/Gabriel_Medina",
+    tags: "surf tricampeão mundial brasil"
+  },
+  {
+    titulo: "Ítalo Ferreira",
+    descricao: "Ítalo Ferreira é um fenômeno do surf brasileiro, campeão olímpico e mundialmente reconhecido por sua técnica agressiva e habilidade em ondas tubulares. Sua história de superação e conquista inspira muitos jovens.",
+    link: "https://pt.wikipedia.org/wiki/%C3%8Dtalo_Ferreira",
+    tags: "surf ouro olímpico brasil"
+  }
